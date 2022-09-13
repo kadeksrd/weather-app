@@ -58,7 +58,7 @@ function Inputs({ setQuery, units, setUnits }) {
           onClick={handleLocationClick}
         />
       </div>
-      <div className="flex flex-row w-1/4 items-center justify-center">
+      <div className="flex flex-row ml-10  items-center justify-center">
         <button
           name="metric"
           className="text-xl text-white font-light transistion ease-out hover:scale-125"

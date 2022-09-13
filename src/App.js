@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div
-      className={`App mx-auto my-4 max-w-screen-lg
+      className={`App mx-auto my-4 max-w-screen-lg hidden-sm
      py-5 px-32 bg-gradient-to-br shadow-xl shadow-gray-400 
       ${formatBackground()}h-fit`}
     >
